@@ -11,6 +11,7 @@ Il a pour objectif de fournir un support pédagogique complet permettant de comp
 Ce que vous allez apprendre
 
 Au fil des séances et des travaux pratiques, vous apprendrez à :
+
 	•	Comprendre les enjeux du test logiciel (qualité, coût des bugs, gestion des risques)
 	•	Concevoir une stratégie de test adaptée à un système
 	•	Différencier et utiliser les principaux types de tests (unitaires, intégration, end-to-end, non-régression)
@@ -28,6 +29,7 @@ Le repository est structuré de manière progressive afin d’accompagner la mon
 Cours
 
 Supports théoriques couvrant les concepts fondamentaux :
+
 	•	stratégie de test
 	•	types de tests
 	•	bonnes pratiques
@@ -36,6 +38,7 @@ Supports théoriques couvrant les concepts fondamentaux :
 Travaux pratiques (TP / TD)
 
 Exercices guidés pour mettre en application les concepts :
+
 	•	tests unitaires avec JUnit
 	•	mocking avec Mockito
 	•	tests Spring Boot
@@ -45,12 +48,14 @@ Exercices guidés pour mettre en application les concepts :
 TDD
 
 Exercices dédiés au développement dirigé par les tests :
+
 	•	katas (FizzBuzz, Bowling, etc.)
 	•	implémentation progressive de fonctionnalités
 
 Cas d’étude
 
 Mises en situation réalistes :
+
 	•	conception d’une stratégie de test (par exemple un distributeur de billets)
 	•	analyse de systèmes complets
 	•	gestion des cas d’erreur et des situations extrêmes
