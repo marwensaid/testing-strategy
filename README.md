@@ -58,6 +58,7 @@ Mises en situation réalistes :
 Sujets avancés
 
 Introduction à des pratiques industrielles :
+
 	•	tests de charge
 	•	crash tests
 	•	chaos engineering
@@ -71,6 +72,7 @@ Le cours alterne entre apports théoriques, travaux pratiques, activités de gro
 ⸻
 
 Stack technique
+
 	•	Java
 	•	Spring Boot
 	•	JUnit 5
